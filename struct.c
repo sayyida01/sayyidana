@@ -9,7 +9,7 @@ int main(){
 // menggunakan struct
 struct Mahasiswa m1;
 // mengisi nilai ke struct
-strcpy(m1.nim, "162023001");
+strcpy(m1.nim, "890945678");
 strcpy(m1.nama, "Yelena");
 mhs1.ipk = 3.2;
 // mencetak data struct
